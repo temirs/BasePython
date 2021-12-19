@@ -19,7 +19,7 @@ ODD = "odd"
 EVEN = "even"
 PRIME = "prime"
 
-
+import math
 def filter_numbers(list, func):
     """
     функция, которая на вход принимает список из целых чисел,
